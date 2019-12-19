@@ -1,0 +1,45 @@
+{
+    "name": "Civic Agency",
+    "description": "Empowering an active and engaged society for all. Civic technology work and other initiatives by @philipashlock",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2642-civic-agency.jpg",
+    "tags": [
+        "agencies",
+        "civic",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/civic-agency\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Civic Agency",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2642-civic-agency.jpg",
+            "humanURL": "http:\/\/www.civicagency.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/civic-agency-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/civic-agency-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/civicagency"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.civicagency.org\/"
+        }
+    ]
+}
